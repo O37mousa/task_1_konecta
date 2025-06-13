@@ -10,7 +10,7 @@ This repo demonstrates the implementation of a **User Login System** using **Git
 
 On GitHub, Got to Repositories, Click New, Enter a valid Repository Name, then create a repository.
 
-Then on VS Code: 
+Then on VS Code, Open New Terminal: 
 
 ```bash
 git clone "your-repository"
