@@ -12,7 +12,6 @@ On GitHub, Got to Repositories, Click New, Enter a valid Repository Name, then c
 
 Then on VS Code: 
 
-### Set Up Repository
 ```bash
 git clone "your-repository"
 git init
